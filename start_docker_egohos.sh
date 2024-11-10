@@ -1,0 +1,1 @@
+sudo docker run --gpus all -it -v /local/home/rsaxena/Documents/Github/DATASET:/home/rupal/DATASET -v /local/home/rsaxena/Documents/Github/Master-Thesis-Project:/home/rupal/Master-Thesis-Project -v /local/home/rsaxena/Documents/Github/Ego4d:/home/rupal/Ego4d egohos_img:latest
